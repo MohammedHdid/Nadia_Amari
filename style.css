@@ -430,7 +430,7 @@ ul { list-style: none; }
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: 30% top;
+  background-position: 10% center;
   background-repeat: no-repeat;
   z-index: 0;
 }
