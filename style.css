@@ -429,8 +429,9 @@ ul { list-style: none; }
 .hero__bg-image {
   position: absolute;
   inset: 0;
+  background-image: url("/images/coach-nadia-v2.png");
   background-size: cover;
-  background-position: 10% center;
+  background-position: left center;
   background-repeat: no-repeat;
   z-index: 0;
 }
@@ -644,6 +645,7 @@ ul { list-style: none; }
   .hero__cta-group { justify-content: center; }
   .hero__stats { justify-content: center; gap: 24px; }
   .hero__bg-image {
+    background-image: url("/images/coach-nadia.jpg");
     background-size: auto 115%;
     background-position: center 10%;
   }
